@@ -94,11 +94,4 @@ Contributions are what make the open source community such an amazing place to b
 <a href="https://www.linkedin.com/in/m-zubeldia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-zubeldia/" height="30" width="40" /></a>
 </p>
 
-Project Link: [mzubeldia.github.io/keyboard/](mzubeldia.github.io/keyboard/)
-
-
-
-
-
-
 
