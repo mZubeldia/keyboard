@@ -1,4 +1,4 @@
-# Musical Keyboard
+# Desktop Musical Keyboard
 
 
 <!--
@@ -22,7 +22,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">Musical Keyboard</h3>
+  <h3 align="center">Desktop Musical Keyboard</h3>
 
   <p align="center">
     An awesome musical keyboard developed using Vanilla JavaScript!
